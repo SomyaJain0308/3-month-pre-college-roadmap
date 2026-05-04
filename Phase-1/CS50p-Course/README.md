@@ -29,4 +29,4 @@ my self-study journey before starting college.
 ## 🔨 Projects Built Along the Way
 | Project | What it does | Built after |
 |---------|-------------|-------------|
-| Slot Machine | Terminal casino game with betting logic | Week 2 |
+| Slot Machine | Terminal casino game with betting logic | Week 4 |
