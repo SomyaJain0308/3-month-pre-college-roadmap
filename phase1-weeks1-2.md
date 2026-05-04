@@ -2,7 +2,7 @@
 
 **Theme:** Close the CS50P chapter. Write real Python. Stop thinking in syntax, start thinking in logic.
 
-> ← [Back to README](../README.md) | Next → [Phase 2](./phase2-weeks3-5.md)
+> ← [Back to README](../README.md) | Next → [Phase 2](./main/phase2-weeks3-5.md)
 
 ---
 
