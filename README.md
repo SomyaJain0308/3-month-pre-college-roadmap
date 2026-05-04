@@ -6,11 +6,11 @@
 
 | Phase | Weeks | Focus | Status |
 |-------|-------|-------|--------|
-| [Phase 1](./phases/phase1-weeks1-2.md) | 1–2 | Finish Python, Git, Think Like a Programmer | 🔄 In Progress |
-| [Phase 2](./phases/phase2-weeks3-5.md) | 3–5 | DSA Core + Math Bridge to ML | ⬜ Not Started |
-| [Phase 3](./phases/phase3-weeks6-8.md) | 6–8 | ML From Scratch + Web Basics + Portfolio | ⬜ Not Started |
-| [Phase 4](./phases/phase4-weeks9-10.md) | 9–10 | CS50x + DP + Graphs + SQL + OS Preview | ⬜ Not Started |
-| [Phase 5](./phases/phase5-weeks11-12.md) | 11–12 | Strategic Positioning + Day 1 Readiness | ⬜ Not Started |
+| [Phase 1](./phase1-weeks1-2.md) | 1–2 | Finish Python, Git, Think Like a Programmer | 🔄 In Progress |
+| [Phase 2](./phase2-weeks3-5.md) | 3–5 | DSA Core + Math Bridge to ML | ⬜ Not Started |
+| [Phase 3](./phase3-weeks6-8.md) | 6–8 | ML From Scratch + Web Basics + Portfolio | ⬜ Not Started |
+| [Phase 4](./phase4-weeks9-10.md) | 9–10 | CS50x + DP + Graphs + SQL + OS Preview | ⬜ Not Started |
+| [Phase 5](./phase5-weeks11-12.md) | 11–12 | Strategic Positioning + Day 1 Readiness | ⬜ Not Started |
 
 ✅ Done
 
