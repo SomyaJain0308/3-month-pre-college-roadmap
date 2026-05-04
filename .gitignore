@@ -1,0 +1,5 @@
+.DS_Store
+.notion/
+*.swp
+*.swo
+Thumbs.db
