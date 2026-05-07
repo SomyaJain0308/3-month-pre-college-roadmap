@@ -9,8 +9,8 @@ Key features and functionality include:
 encrypt and decrypt the password.
 * File Handling: It utilizes Python's file operations—specifically 'append' (a) mode for adding new entries and 'read' (r) mode 
 for viewing them—ensuring data is persistent between program runs.
-Important Note: As the creator mentions, this project is intended as a fun learning exercise and is not a secure way to store 
-real-world sensitive passwords now tell me if i should do the project now or later?
+Important Note:This project is intended as a fun learning exercise and is not a secure way to store 
+real-world sensitive passwords.
 """
 print("------------------------------------------------------------------------------------------------------------------")
 while True:
