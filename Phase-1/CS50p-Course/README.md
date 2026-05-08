@@ -12,8 +12,8 @@ my self-study journey before starting college.
 | Week 3 | Exceptions | ✅ |
 | Week 4 | Libraries | ✅ |
 | Week 5 | Unit Tests | ✅ |
-| Week 6 | File I/O | ⏳ |
-| Week 7 | Regular Expressions | ⏳ |
+| Week 6 | File I/O | ✅ |
+| Week 7 | Regular Expressions | ✅ |
 | Week 8 | OOP | ⏳ |
 | Week 9 | Et Cetera | ⏳ |
 
