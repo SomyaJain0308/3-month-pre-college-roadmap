@@ -1,7 +1,6 @@
 # Phase 2 · Week 1 — C Programming
 
 **Status: 🔄 IN PROGRESS**  
-**JIIT Coverage: Sem 1 — SDF-1 (15B11CI111) + Lab (24B15CS111) — 100%**  
 **Resource: [CS50x](https://cs50.harvard.edu/x) — Weeks 1, 2, 3**
 
 > C isn't just Sem 1. It rewires how you think about memory, performance, and what's actually happening inside your computer. Python hid all of this. C shows it.
@@ -15,10 +14,6 @@ Complete all of C — from hello world to pointers to file handling. Walk out ab
 
 ## Day 1 — Setup + C Basics
 
-- [ ] WSL2: run `sudo apt install build-essential gdb -y`
-- [ ] Verify: `gcc --version` prints a version number
-- [ ] VS Code extensions: C/C++, GitLens, Remote WSL installed
-- [ ] Create GitHub repo: `pre-college-journey` — push this folder
 - [ ] Watch CS50x Week 1 lecture (pause + type every code snippet shown)
 - [ ] Finish CS50x Week 1 problem sets
 - [ ] Write these programs from scratch:
