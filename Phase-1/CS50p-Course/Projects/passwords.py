@@ -5,8 +5,6 @@ Key features and functionality include:
 
 * Storage: It saves account names alongside their corresponding passwords.
 * Mode selection: The user can interact with the program to either view existing saved credentials or add new ones .
-* Encryption: To avoid storing sensitive data in plain text, the project uses the Fernet module from the cryptography library to 
-encrypt and decrypt the password.
 * File Handling: It utilizes Python's file operations—specifically 'append' (a) mode for adding new entries and 'read' (r) mode 
 for viewing them—ensuring data is persistent between program runs.
 Important Note:This project is intended as a fun learning exercise and is not a secure way to store 
