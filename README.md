@@ -31,7 +31,7 @@ I decided that wasn't going to be me.
 - [x] Week 1 — Python basics, functions, conditionals
 - [x] Week 2 — Loops, data structures, file I/O
 - [x] Week 3 — Libraries, APIs, exceptions
-- [x] Week 4 — Final project + CS50P certificate
+- [ ] Week 4 — Final project + CS50P certificate
 
 ### Phase 2 — The Foundation
 - [ ] Week 1 — C programming
